@@ -1,16 +1,4 @@
-{
-  "name": "frontend",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "http-server . -p 8080" 
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
-  "devDependencies": {
-    "http-server": "^14.1.1"
-  }
+"scripts": {
+ "start": "node server.js",
+ "dev": "node --watch server.js"
 }

@@ -1,10 +1,26 @@
 [
- {
- "id": "ISS-101",
- "title": "Unable to access Wi-Fi",
- "description": "Connection fails in the teaching lab.",
- "priority": "High",
- "status": "Open",
- "createdAt": "2026-09-01T09:00:00.000Z"
- }
+  {
+    "id": "ISS-101",
+    "title": "Unable to access Wi-Fi",
+    "description": "Connection fails in the teaching lab.",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2026-09-01T09:00:00.000Z"
+  },
+  {
+    "id": "64fb51ec-78ae-4015-b647-2a494d898deb",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-10-20T11:57:10.596Z"
+  },
+  {
+    "id": "de88c5a8-534b-4915-9079-61af26100a80",
+    "title": "Printer unavailable",
+    "description": "The shared printer is not responding.",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2026-10-20T11:59:17.559Z"
+  }
 ]
